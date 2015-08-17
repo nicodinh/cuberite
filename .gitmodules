@@ -1,23 +1,23 @@
-[submodule "MCServer/Plugins/Core"]
-	path = MCServer/Plugins/Core
+[submodule "Server/Plugins/Core"]
+	path = Server/Plugins/Core
 	url = https://github.com/mc-server/Core.git
-[submodule "MCServer/Plugins/ProtectionAreas"]
-	path = MCServer/Plugins/ProtectionAreas
+[submodule "Server/Plugins/ProtectionAreas"]
+	path = Server/Plugins/ProtectionAreas
 	url = https://github.com/mc-server/ProtectionAreas.git
-[submodule "MCServer/Plugins/TransAPI"]
-	path = MCServer/Plugins/TransAPI
+[submodule "Server/Plugins/TransAPI"]
+	path = Server/Plugins/TransAPI
 	url = https://github.com/bearbin/transapi.git
-[submodule "MCServer/Plugins/ChunkWorx"]
-	path = MCServer/Plugins/ChunkWorx
+[submodule "Server/Plugins/ChunkWorx"]
+	path = Server/Plugins/ChunkWorx
 	url = https://github.com/mc-server/ChunkWorx.git
-[submodule "MCServer/Plugins/ChatLog"]
-	path = MCServer/Plugins/ChatLog
+[submodule "Server/Plugins/ChatLog"]
+	path = Server/Plugins/ChatLog
 	url = https://github.com/mc-server/ChatLog.git
-[submodule "MCServer/Plugins/Handy"]
-	path = MCServer/Plugins/Handy
+[submodule "Server/Plugins/Handy"]
+	path = Server/Plugins/Handy
 	url = https://github.com/mc-server/Handy.git
-[submodule "MCServer/Plugins/MagicCarpet"]
-	path = MCServer/Plugins/MagicCarpet
+[submodule "Server/Plugins/MagicCarpet"]
+	path = Server/Plugins/MagicCarpet
 	url = https://github.com/mc-server/MagicCarpet.git
 [submodule "lib/polarssl"]
 	path = lib/polarssl
@@ -39,4 +39,3 @@
 	path = lib/TCLAP
 	url = https://github.com/mc-server/TCLAP.git
 	ignore = dirty
-
